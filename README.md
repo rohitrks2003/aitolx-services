@@ -1,2 +1,2 @@
 # aitolx-services
-Spring boot code for aitolx project
+Spring boot service for aitolx project
